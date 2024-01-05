@@ -1,12 +1,12 @@
-<p aling="center">
-    Heyyyaa
-</p>
+<h2 align="center">
+    **Heyyyaa**
+</h2>
 
-Im your average JS programmer
+<p>**Im your average JS programmer**</p>
 
-Most projects on this account are private lol
+<p>**Most projects on this account are private lol**</p>
 
-Ill put something here eventually stay tuned
+<p>**Ill put something here eventually stay tuned**</p>
 
 <h3 align="left">here are some of the things i know</h3>
 
