@@ -8,10 +8,6 @@ Most projects on this account are private lol
 
 Ill put something here eventually stay tuned
 
-<span>
-<img align="left" height="350px" src="https://res.cloudinary.com/dqmxyu5is/image/upload/v1703780043/my-assets/cgjdhwhqdloh8os0lnxd.gif" alt="Automatic digital assistant" style="float:left">
-</span>
-
 <h3 align="left">here are some of the things i know</h3>
 
 <p align="left">
