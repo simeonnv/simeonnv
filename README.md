@@ -1,14 +1,14 @@
 <h2 align="center">
-    **Heyyyaa**
+    Heyyyaa
 </h2>
 
-<p>**Im your average JS programmer**</p>
+**Im your average JS programmer**
 
-<p>**Most projects on this account are private lol**</p>
+**Most projects on this account are private lol**
 
-<p>**Ill put something here eventually stay tuned**</p>
+**Ill put something here eventually stay tuned**
 
-<h3 align="left">here are some of the things i know</h3>
+<h2 align="left">here are some of the things i know</h3>
 
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
