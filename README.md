@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simeonnv&show_icons=true&locale=en&layout=compact" alt="simeonnv" /></p>
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=simeonnv)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=simeonnv)](https://git.io/streak-stats)
