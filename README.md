@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simeon!</h1>
 <h3 align="center">A perfectionist low level programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simeonnv&label=Profile%20views&color=0e75b6&style=flat" alt="simeonnv" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=simeonnv&label=Profile%20views&color=0e75b6&style=flat" alt="simeonnv" />
+</p>
 
 - 🌱 I’m currently learning **Nuxt.js and Neovim <3**
 
@@ -18,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simeonnv&show_icons=true&locale=en&layout=compact" alt="simeonnv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simeonnv&" alt="simeonnv" /></p>
+<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=simeonnv)](https://git.io/streak-stats)</p>
