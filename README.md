@@ -20,5 +20,5 @@
 
 <p align="center"> 
   <img align="center" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=simeonnv&show_icons=true&locale=en&layout=donut&theme=midnight-purple" alt="simeonnv" />
-  <img align="center" width=40% src="https://github-readme-streak-stats-eight.vercel.app/?user=simeonnv&theme=midnight-purple" alt="simeonnv">
+  <img align="center" width=60% src="https://github-readme-streak-stats-eight.vercel.app/?user=simeonnv&theme=midnight-purple" alt="simeonnv">
 </p>
