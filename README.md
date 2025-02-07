@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Rust and C++**
 
-- 📫 How to reach me **simeon_nv**
+- 📫 My Discord is **simeon_nv**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
