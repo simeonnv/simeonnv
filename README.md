@@ -20,4 +20,5 @@
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simeonnv&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="simeonnv" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=simeonnv" alt="simeonnv">
 </p>
