@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kafka**
 
-- 💬 Ask me about **Rust and C++**
+- 💬 Ask me about **Rust and C**
 
 - 📫 My Discord is **simeon_nv**
 
