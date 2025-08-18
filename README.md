@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simeon!</h1>
-<h3 align="center">A perfectionist low level programmer</h3>
+<h3 align="center">A low level programmer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=simeonnv&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="simeonnv" />
