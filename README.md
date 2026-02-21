@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=simeonnv&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="simeonnv" />
 </p>
 
-- 🌱 I’m currently learning **Nix**
+- 🌱 I’m currently learning **Nix and NixOS**
 
 - 💬 Ask me about **Rust and C**
 
