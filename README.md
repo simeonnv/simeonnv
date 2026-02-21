@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=simeonnv&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="simeonnv" />
 </p>
 
-- 🌱 I’m currently learning **Kafka**
+- 🌱 I’m currently learning **Nix**
 
 - 💬 Ask me about **Rust and C**
 
