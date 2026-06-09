@@ -5,11 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=simeonnv&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="simeonnv" />
 </p>
 
-- 🌱 I’m currently learning **Nix and NixOS**
+- Α> I’m currently learning **Nix and NixOS**
 
-- 💬 Ask me about **Rust and C**
+- Β> Ask me about **Rust and C**
 
-- 📫 My Discord is **simeon_nv**
+- Γ> My Discord is **simeon_nv**
+
+- Δ> I also have a website https://manifesto.fravs.org/
 
 
 <h3 align="left">Languages and Tools:</h3>
